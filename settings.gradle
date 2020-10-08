@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Storing_data_permanently"
